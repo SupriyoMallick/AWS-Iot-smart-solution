@@ -1,0 +1,1 @@
+# AWS-Iot-smart-solution
